@@ -9,14 +9,14 @@ La informacion a extraer tiene esta relacionada con **relojes deportivos** y se 
 
 Opcionalmente quiero ademas alistar estos items de acuerdo a **precio y calidad**.
 
-##Las etapas principales de este codigo consisten en:
+## Las etapas principales de este codigo consisten en:
 
-??????*Encontrar la manera de aislar los datos de relojes deportivos.
-??????*Buscar algun elemento que identifique la cantidad de comentarios de cada "post".
-??????*Aislar los 10 "posts" con la mayor cantidad de comentarios y elistarlos en orden.
-??????*Extraer los datos de los comentarios de cada uno, para identificar si estos son positivos o negativos manualemente.
+ *Encontrar la manera de aislar los datos de relojes deportivos.
+ *Buscar algun elemento que identifique la cantidad de comentarios de cada "post".
+ *Aislar los 10 "posts" con la mayor cantidad de comentarios y elistarlos en orden.
+ *Extraer los datos de los comentarios de cada uno, para identificar si estos son positivos o negativos manualemente.
 
-##Las etapas Opcionales de este codigo consisten en:
+## Las etapas Opcionales de este codigo consisten en:
 
-??????*Aislar tambien un listado de "posts" segun precio.
-??????*Aislar tambien un listado de "posts" segun puntuacion.
+ *Aislar tambien un listado de "posts" segun precio.
+ *Aislar tambien un listado de "posts" segun puntuacion.
