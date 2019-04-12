@@ -30,5 +30,8 @@ FALSE || TRUE
 FALSE && TRUE
 variableUno <- variableUno + 1
 
+source("script.R")
+funcion1()
+
 
 
