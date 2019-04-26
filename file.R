@@ -5,6 +5,7 @@
 library(ggplot2)
 
 #Variables
+#boolean,float,int
 
 variableUno <- 1
 variableDos <- 1.6
