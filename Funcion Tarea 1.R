@@ -11,7 +11,10 @@ AreaCirculo <- function(radio){
 #Ejemplo: 4,4 ->  3.433629
 
 AreaAnillo <- function(radio1,radio2){
-  print(abs(pi*radio1^2-radio2^2))
+  print(pi*radio1^2-radio2^2)
+}
+AreaAnilloabs <- function(radio1,radio2){
+  abs(print(pi*radio1^2-radio2^2))
 }
 
 #Funcion para el tiempo que me demoro en llegar a la casa de mi amigo a distancia "distancia" a la velocidad de "velocidad"
