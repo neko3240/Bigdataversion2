@@ -23,5 +23,16 @@ AreaAnilloabs <- function(radio1,radio2){
 
 Tiempoviaje <- function(velocidad,distancia){
   print(distancia/velocidad)
-  
+}
+
+checkvalor <- function(x){
+if(grepl("[A-Za-z]",x)){
+print("es texto")
+}else if (x > 0){
+print("mayor a 0")
+}else if (x < 0){
+print("menor a 0")
+}else{
+print("es igual a 0")
+}
 }
